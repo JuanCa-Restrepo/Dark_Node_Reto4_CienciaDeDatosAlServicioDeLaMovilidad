@@ -3,11 +3,11 @@
 
 Solución end-to-end de ciencia de datos para analizar corredores críticos, comunas con mayor presión vehicular y horas de mayor congestión en Medellín.
 
-Hecho por:
-Juan Camilo Londoño Restrepo
-Ronald Issant Enoc Briseño Silva
-Juan Jose Rivera Vergara
-Samuel Alzate Echeverri
+## Hecho por:
+- Juan Camilo Londoño Restrepo
+- Ronald Issant Enoc Briseño Silva
+- Juan Jose Rivera Vergara
+- Samuel Alzate Echeverri
 
 ## Estructura del proyecto
 
